@@ -1,0 +1,16 @@
+INSTRUCTIONS:
+
+1)Output Data Structure.xlsx -----> This is the Final Output File after performing extraction and analysis.
+2)Book1.csv  ----> This is the Input dataset.
+3)Book12.csv  --->Temporary dataset on which extra analysis is done.
+4)Extracted_Article.zip  ----> Zip File Containing 170 Extracted Text Files Using Python and BeautifulSoup.
+5)pn.csv ------> This is the dataset that I created for Positive and Negative Words. Reference for dataset was chose from the link provided in Objective.docx .
+6)StopWords_Generic.txt  ----> This File contains all necessary Stopwords that needs to be removed.
+7)I used Book1.csv to extract Articles from given URL's and save it with URL_id as filename in a zip file.
+8)Blackcoffer_Data_Analysis.ipynb  --->  This is python notebook file. It contains code and output for Data Analysis For each of the extracted texts from the article.
+9)blackcoffer_data_analysis.py ---> Python File
+
+
+
+
+ 
